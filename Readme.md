@@ -7,6 +7,7 @@
     ```
 
 2. **Install dependencies:**
+    #### Create a virtual environment
     ```sh
     pip install -r requirements.txt
     ```
