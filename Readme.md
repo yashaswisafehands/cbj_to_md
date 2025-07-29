@@ -14,5 +14,5 @@
 
 3. **Run the project:**
     ```sh
-    python cbj_md.py
+    python one.py
     ```
